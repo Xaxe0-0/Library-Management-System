@@ -83,6 +83,7 @@ Library Management System
 4. Display books by genre
 5. Exit
 Choose an option: 1
+
 Library Books:
 Book: Java Basics | Author: Alexandrie Abon | Genre: TECHNOLOGY | Borrowed: false
 Book: World History | Author: Rob Sison | Genre: HISTORY | Borrowed: false
@@ -96,6 +97,7 @@ Library Management System
 4. Display books by genre
 5. Exit
 Choose an option: 2
+
 Enter book title to borrow: World History
 World History has been borrowed.
 
@@ -106,6 +108,7 @@ Library Management System
 4. Display books by genre
 5. Exit
 Choose an option: 3
+
 Enter book title to return: World History
 World History has been returned.
 
@@ -116,6 +119,7 @@ Library Management System
 4. Display books by genre
 5. Exit
 Choose an option: 4
+
 Genre: FICTION
  - Fictional Story
 Genre: NONFICTION
@@ -133,4 +137,5 @@ Library Management System
 4. Display books by genre
 5. Exit
 Choose an option: 5
+
 Exiting system...
